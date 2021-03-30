@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\bin\Debug\Arac_Otomasyon.exe.config
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\bin\Debug\Arac_Otomasyon.exe
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\bin\Debug\Arac_Otomasyon.pdb
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.Properties.Resources.resources
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.exe
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.pdb
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.Form1.resources
+C:\Users\Acer\source\repos\Arac_Otomasyon\Arac_Otomasyon\obj\Debug\Arac_Otomasyon.PresantationLayer.menu.resources
